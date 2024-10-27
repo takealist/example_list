@@ -1,0 +1,60 @@
+[
+  {
+    "takealist": {
+      "meta": {
+        "title": "titel",
+        "description": "beschre"
+      },
+      "list": {
+        "steps": [
+          {
+            "step": "1",
+            "text": "1"
+          },
+          {
+            "step": "2",
+            "text": "2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "takealist": {
+      "meta": {
+        "title": "titel zwei",
+        "description": "titel zwei"
+      },
+      "list": {
+        "steps": [
+          {
+            "step": "eins",
+            "text": "eins"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "takealist": {
+      "meta": {
+        "title": "ddd",
+        "description": "dd"
+      },
+      "list": {
+        "steps": []
+      }
+    }
+  },
+  {
+    "takealist": {
+      "meta": {
+        "title": "ddss",
+        "description": "sds"
+      },
+      "list": {
+        "steps": []
+      }
+    }
+  }
+]
